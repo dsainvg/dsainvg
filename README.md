@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsainvg
 - I am Durga Sai
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,JS,ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... iykyk
 - ⚡ Fun fact: you know me ryt
