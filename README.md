@@ -28,9 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dsainvg/dsainvg/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
